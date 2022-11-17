@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268116141801",
+    "project_id": "flutter-web-auth-991e3",
+    "storage_bucket": "flutter-web-auth-991e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268116141801:android:479c41faef72df58dff278",
+        "android_client_info": {
+          "package_name": "com.example.web_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268116141801-drk2idtg312slgugb2pvum2n53v9g5iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYaNZJH5ya59xm4XqHzg85cXq1upljJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268116141801-drk2idtg312slgugb2pvum2n53v9g5iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
